@@ -1,6 +1,5 @@
 <h1 align="center">What's up  👋 , I'm Rauf</h1>
 
-![image title](https://rushter.com/counter.svg)
 <!--
 **DuudeXX8/DuudeXX8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
