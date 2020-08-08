@@ -1,10 +1,6 @@
 <h1 align="center">What's up  👋 , I'm Rauf</h1>
 
-<p align="center">
-  <a href="https://iliyazelenko.github.io/skills/">
-    <img src="https://camo.githubusercontent.com/2f116070588b1e185231fc7f510d60bae5e4d51c/68747470733a2f2f692e696d6775722e636f6d2f476750534264752e706e67" width="600" alt="duudexx8" />
-  </a>
-</p>
+
 <!--
 **DuudeXX8/DuudeXX8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
