@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=DuudeXX8&theme=vue&show_icons=true)
 
-[![Rauf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Randall)]
+![Rauf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Randall)
 <!--
 **DuudeXX8/DuudeXX8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
